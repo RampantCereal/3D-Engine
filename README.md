@@ -2,7 +2,7 @@
  C++ 3D engine with modern pipeline features
  
  Initially done as part of a course on modern computer graphics.
- The featurs of the engine are as follows:
+ The features of the engine are as follows:
  
  - Deferred Rendering pipeline (with an option to see all Gbuffers)
  - PBR
