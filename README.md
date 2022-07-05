@@ -1,7 +1,9 @@
 # 3D Engine
  C++ 3D engine with modern pipeline features
  
- Initially done as part of a course on modern computer graphics.
+ Initially done as part of a course on modern computer graphics, imparted by Javier Agenjo, teacher of the UPF. 
+ The basis of the project was his framework which wraps around SDL2 and some of OpenGL's functionality.
+ 
  The features of the engine are as follows:
  
  - Deferred Rendering pipeline (with an option to see all Gbuffers)
